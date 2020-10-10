@@ -1,0 +1,47 @@
+header{
+    background-color: rgb(184, 228, 24);
+    height: 100px;
+    text-align: center;
+    text-justify: auto;
+}
+.content{
+    overflow: hidden;
+}
+.left{
+    background-color: hotpink;
+    height: 200px;;
+    width: 20%;
+    float: left;
+
+}
+.middle{
+    background-color: indigo;
+    height: 200px;
+    width: 60%;
+    float: left;
+}
+.top{
+    background-color: purple;
+    height: 20%;
+
+}
+.center{
+    background-color: tomato;
+    height: 60%;
+}
+.bottom{
+    background-color: blue;
+    height: 20%;
+}
+
+.right{
+    background-color: mediumaquamarine;
+    height: 200px;
+    width: 20%;
+    float: right;
+}
+footer{
+    background-color: gold;
+    height: 50px;
+    text-align: center;
+}
